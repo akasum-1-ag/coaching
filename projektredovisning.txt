@@ -1,0 +1,42 @@
+1. Varför valde du just det här projektet? Vad är din vision?
+
+Jag valde projektet för jag har ett intresse i e-sport, samt coaching. Eftersom det ett stort intresse har jag mycket kunskap och erfarenhet inom ämnet
+
+2. Hur planerade du för att börja med projektet? Från idé till produkt.
+
+Det är började med iden att göra något esports relaterat. Insåg sen att jag borde sälja något eller någon typ av tjänts vilket ledde mig till coaching. och därmed esports coaching.
+
+3. Vilka teknologier har du använt i ditt projekt?
+
+Jag använde mig en hel del av internet för att förstå och utforska koncept jag inte sett förut. Även för inspiration, kollat på liknande hemsidor till exemepl. 
+
+4. Hur lång tid tog du för att jobba med projektet?
+
+Ungefär 2 veckor, mer eller mindre.
+
+5. Kan du förklara planeringsprocessen av ditt projekt?
+a. Idé
+b. Planning (Både På Papper och Dator)
+c. Faser (Har du delat ditt projekt i små delar?)
+d. Testing/Felsöka
+e. Problemlösning
+f. Förbättra
+g. Slut Produkt
+
+a. esports relaterat, ngn typ av produkt eller tjänst?, coaching + esport
+b. hitta en passande hemsida för min vision, min vision va att ha en fräsh och modern hemsida som passar ämnet. (använde bilder för att förstärka detta senare)
+c. Jag började med att fixa till första sidan (index.html) eftersom det är den viktigaste och huvudpunkten i projektet. Ändrade rubriker samt lite bilder för att få en bättre bild på
+hur det kommer se ut
+d. Det hjälpte till med att lägga till den behövda koden eftersom jag lättare förstod var allting skulle sitta och se ut. Efter koden va komplett så la jag till resten av texten som behövdes
+och dem sista små detaljerna.
+e. Jag stötte på problem ibland, som t.ex när jag behövde byta ikoner på min nav bar och footer. Men hittade och lärde mig lösningarna ganska samt genom videos.
+
+6. Hur kan du sälja produkten till en kund? Varför ska kunden köpa din
+produkt?
+
+Jag motiverar min tjänst på hemsidan i en genomgående form. Nämner varför och hur det skulle hjälpa kunden på flera vis. Jag har även flera olika alternativ för olika typer av kunder/målgrupper.
+
+7. Tänk! om du är en projektledare, hur kan du leda ditt team att nå en
+deadline
+
+Planera på ett bra sätt och det blir ganska svårt att missa deadline
